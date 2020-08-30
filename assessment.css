@@ -1,0 +1,28 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff; 
+    /*文字色の指定*/
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+button {
+    padding: 5px 20px;
+    background-color: #337ab7;
+    color: #fdffff; 
+    /*文字色の指定*/
+    border-style: none;
+}
+
+
+/*
+margin、paddingともに余白の設定である。
+marginは境界線より外側の余白、
+paddingは境界線より内側の余白です。
+なお、border、noneは、paddingの外側の領域のもの。
+*/
+
+input {
+    height: 20px;
+  }
